@@ -4,8 +4,8 @@ A birthday GIFt site built as part of the Scrimba Frontend Developer Career Path
 
 ## Module Learning
 
-- align-items
-- flex-direction
-- :hover
-- Gradients
-- Grouping selector
+-   align-items
+-   flex-direction
+-   :hover
+-   Gradients
+-   Grouping selector
